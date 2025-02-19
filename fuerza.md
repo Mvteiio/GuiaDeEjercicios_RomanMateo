@@ -14,3 +14,8 @@ El entrenamiento de fuerza consiste en ejercicios que hacen trabajar tus múscul
 1. Comienza con un calentamiento de 5-10 minutos.
 2. Realiza la actividad (levantamiento de pesas, máquinas, bandas elásticas) durante al menos 45 minutos.
 3. Termina con un enfriamiento y estiramientos.
+
+## Consejos
+
+- Mantén una técnica adecuada en todo momento.
+- Escoge un peso que te desafíe pero puedas controlar.
