@@ -13,3 +13,6 @@ El boxeo es un deporte de combate que combina movimientos técnicos con un alto 
 2. Realiza la actividad (técnica, saco, sparring controlado) durante 40-60 minutos.  
 3. Termina con estiramientos específicos.  
 
+## Consejos  
+- Mantén las manos protegiendo siempre tu rostro.  
+- Escoge el ritmo adecuado para evitar el agotamiento prematuro.
