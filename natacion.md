@@ -13,3 +13,6 @@ La natación es un ejercicio de bajo impacto que involucra todo el cuerpo mientr
 2. Realiza la actividad (diferentes estilos de nado) durante 30-45 minutos.  
 3. Termina con ejercicios de flotación relajada.  
 
+## Consejos  
+- Mantén una técnica de respiración adecuada.  
+- Escoge el estilo de natación que mejor se adapte a ti.
