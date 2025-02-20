@@ -13,3 +13,6 @@ El ciclismo es una actividad aeróbica que fortalece el tren inferior y mejora l
 2. Realiza la actividad (ruta, montaña, estacionaria) durante 30-90 minutos.  
 3. Termina con un enfriamiento gradual.  
 
+## Consejos  
+- Mantén una postura correcta sobre la bicicleta.  
+- Escoge rutas apropiadas para tu nivel de experiencia.
