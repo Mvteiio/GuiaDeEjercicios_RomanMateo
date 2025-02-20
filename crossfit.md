@@ -13,4 +13,6 @@ El CrossFit es un entrenamiento de alta intensidad que combina elementos de dife
 2. Realiza la actividad (WOD: Workout Of the Day) durante 20-40 minutos.  
 3. Termina con técnicas de recuperación y movilidad.  
 
-
+## Consejos  
+- Mantén la técnica correcta por encima de la velocidad.  
+- Escoge versiones escaladas si eres principiante.
