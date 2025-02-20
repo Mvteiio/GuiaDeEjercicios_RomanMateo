@@ -13,3 +13,6 @@ El Pilates son ejercicios controlados que fortalecen el núcleo corporal y mejor
 2. Realiza la actividad (ejercicios de suelo, con aparatos) durante 45-50 minutos.  
 3. Termina con ejercicios de movilidad espinal.  
 
+## Consejos  
+- Mantén la conexión mente-cuerpo durante los ejercicios.  
+- Escoge una respiración coordinada con cada movimiento.
