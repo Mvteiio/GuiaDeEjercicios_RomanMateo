@@ -15,4 +15,4 @@ Los ejercicios de flexibilidad son actividades que mejoran el rango de movimient
 
 ## Consejos
 - Mantén cada estiramiento entre 30-60 segundos.
-- Escoge una intensidad que sientas tensión, no dolor.
+- Escoge una intensidad que sientas tensión, mas no dolor.
